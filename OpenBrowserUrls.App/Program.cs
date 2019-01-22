@@ -20,7 +20,7 @@ namespace OpenBrowserUrls.App
             //Get Browser Names
             List<string> browserNames = manager.GetBrowserNames();
 
-            //Get Paths Names
+            //Get Browser Paths
             List<string> browserPaths = manager.GetPaths();
 
             //Open Browser Window  
