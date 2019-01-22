@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBrowserUrls.App", "OpenBrowserUrls.App\OpenBrowserUrls.App.csproj", "{7D4610DC-5037-4E0B-B87F-EA2A70AE135F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBrowserUrls.Core", "OpenBrowserUrls.Core\OpenBrowserUrls.Core.csproj", "{2FB2A696-E684-45FD-B88D-07F0BC71C191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D4610DC-5037-4E0B-B87F-EA2A70AE135F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4610DC-5037-4E0B-B87F-EA2A70AE135F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4610DC-5037-4E0B-B87F-EA2A70AE135F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4610DC-5037-4E0B-B87F-EA2A70AE135F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FB2A696-E684-45FD-B88D-07F0BC71C191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB2A696-E684-45FD-B88D-07F0BC71C191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB2A696-E684-45FD-B88D-07F0BC71C191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB2A696-E684-45FD-B88D-07F0BC71C191}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

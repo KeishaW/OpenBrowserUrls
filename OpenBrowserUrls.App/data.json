@@ -1,0 +1,8 @@
+﻿{
+  "Path": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+  "WindowsUrls": [
+    [ "https://www.google.com/", "https://www.github.com/", "https://visualstudio.microsoft.com/", "https://azure.microsoft.com/en-us/blog/", "https://medium.com/" ],
+    [ "https://www.yahoo.com/", "https://www.youtube.com/", "https://codepen.io/" ]
+  ],
+  "TabType": "3"
+}
